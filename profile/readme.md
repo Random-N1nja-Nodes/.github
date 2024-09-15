@@ -19,7 +19,7 @@ We are also conscious of the environmental impact of blockchain technologies and
 
 | 0G | Avail | Babylon | Union |
 | --- | --- | --- | --- |
-| [Guides](https://github.com/Random-N1nja-Nodes/randomninja0g/blob/main/DANODE.md) | [Guides]() | [Guides]() | [Guides]() |
+| [Guides](https://github.com/Random-N1nja-Nodes/randomninja0g/blob/main/DANODE.md) | [Guides](https://github.com/Random-N1nja-Nodes/Avail-client) | [Guides]() | [Guides]() |
 | [Media Articles](https://mirror.xyz/0x5B5c629E2E5866AF6CBf0162be4D6D52A38E1bE6/tP-V5k65_BTKeAdybmIxOHctjCBzWaDkv0BjCC_lIKY) | [Media Articles]() | [Media Articles]() | [Media Articles]() |
 
 # Our Socails
